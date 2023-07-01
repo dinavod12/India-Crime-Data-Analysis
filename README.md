@@ -1,2 +1,2 @@
 # India-Crime-Data-Analysis
-Here I analysis the crime data of India that occurred in the different  State of India from 2016 to 2018 .This data is collected from government website.
+Here I have analysed the data of crime's  occurred in the different  State's of India from the period 2016 to 2018 .This data has been is collected from the government website.
